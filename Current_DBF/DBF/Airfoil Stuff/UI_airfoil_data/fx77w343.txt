@@ -1,0 +1,14 @@
+  
+       XFOIL         Version 6.96
+  
+ Calculated polar for: WORTMANN FX 77-W-343 AIRFOIL                    
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.000     Re =     0.200 e 6     Ncrit =   9.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr
+  ------ -------- --------- --------- -------- -------- --------
+  -2.000   0.1316   0.05071   0.04409  -0.0218   0.4548   0.6175
+  -1.500   0.1941   0.05222   0.04544  -0.0203   0.4534   0.6221

@@ -1,0 +1,15 @@
+  
+       XFOIL         Version 6.96
+  
+ Calculated polar for: KC-135 BL351.6 AIRFOIL                          
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.061     Re =     0.200 e 6     Ncrit =   9.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr
+  ------ -------- --------- --------- -------- -------- --------
+  -4.500  -0.3156   0.03340   0.02801  -0.0402   0.9694   0.0577
+  -4.000  -0.2515   0.02891   0.02300  -0.0435   0.9590   0.0726
+  -3.500  -0.1830   0.02532   0.01885  -0.0478   0.9515   0.1104

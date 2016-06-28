@@ -1,0 +1,14 @@
+AVL paths
+
+oper	compute operating point run cases
+mode  	Eigenvalue analysis of run cases
+time	time domain calculations
+
+load f	read configuration input file
+mass f  mass distribution file
+case f  read run case file
+cini	cealr and initialize run cases
+mset i  apply mass file data to stored run case
+
+plop	plotting options
+name s  specify new conifguration name

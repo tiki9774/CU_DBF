@@ -1,0 +1,27 @@
+[avl]
+Frame=0 0 768 537
+StatusBar=0,0,0,0
+Name=avl
+CurrentFile=
+OpenFiles=0
+ProjectPath=C:\lcc
+SourcesDir=C:\lcc
+Defines=
+Includes=
+Libraries=
+LinkerArgs=
+ProjectTime=63
+MakeName=
+MakeDir=C:\lcc\lcc
+Exe=C:\lcc\lcc\.exe
+DebuggerArguments=
+DbgExeName=
+DbgDir=C:\lcc\lcc
+CompilerFlags=8
+ProjectFlags=0
+Useframework=0
+NumberOfBreakpoints=0
+ErrorFile=\avl.err
+NrOfFileProcessors=0
+PrjFiles=1
+File1=c:\documents and settings\jeff\desktop\avl\src\aero.f

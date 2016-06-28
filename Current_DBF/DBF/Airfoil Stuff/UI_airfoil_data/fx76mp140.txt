@@ -1,0 +1,14 @@
+  
+       XFOIL         Version 6.96
+  
+ Calculated polar for: FX 76-MP-140                                    
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.000     Re =     0.200 e 6     Ncrit =   9.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr
+  ------ -------- --------- --------- -------- -------- --------
+  -2.500   0.4326   0.02689   0.01918  -0.1723   0.7724   0.0946
+  -1.000   0.5749   0.02585   0.01817  -0.1683   0.7504   0.1386

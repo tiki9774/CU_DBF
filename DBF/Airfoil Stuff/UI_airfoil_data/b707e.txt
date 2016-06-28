@@ -1,0 +1,15 @@
+  
+       XFOIL         Version 6.96
+  
+ Calculated polar for: BOEING 707 .99 SPAN AIRFOIL                     
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.061     Re =     0.200 e 6     Ncrit =   9.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr
+  ------ -------- --------- --------- -------- -------- --------
+  -5.000  -0.3972   0.04056   0.03575  -0.0353   0.9833   0.0511
+  -4.000  -0.2754   0.03059   0.02465  -0.0421   0.9596   0.0782
+  -3.500  -0.2132   0.02632   0.02014  -0.0453   0.9491   0.0986

@@ -1,0 +1,15 @@
+  
+       XFOIL         Version 6.96
+  
+ Calculated polar for: Griffith 30% Suction Airfoil                    
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.000     Re =     0.200 e 6     Ncrit =   9.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr
+  ------ -------- --------- --------- -------- -------- --------
+  -2.000  -0.1576   0.10331   0.09730  -0.0013   0.7758   0.7112
+  -1.500  -0.1096   0.10560   0.09962  -0.0018   0.7718   0.7233
+   0.000   0.0000   0.10843   0.10247   0.0000   0.7571   0.7571

@@ -1,0 +1,79 @@
+stuff
+
+#Mach
+ 0.06
+
+#IYsym   IZsym   Zsym
+ 0       0       0.0
+
+#--------------------------------------------------
+SURFACE 
+Wing 
+!Nchordwise  Cspace  Nspanwise  Sspace
+12           1.0     26         -1.1
+
+COMPONENT 
+1
+
+YDUPLICATE 
+0.0
+
+ANGLE
+0.0
+
+SCALE
+1.0   1.0   0.07
+
+TRANSLATE
+0.0  0.0  0.0
+
+
+SECTION
+#Xle    Yle    Zle     Chord   Ainc  Nspanwise  Sspace
+0.0    0.0    0.0     0.254    3
+AFILE
+HS602.dat
+
+SECTION
+#Xle    Yle    Zle     Chord   Ainc  Nspanwise  Sspace
+.1397    .5588    0.0     .2032    1  
+AFILE
+HS602.dat
+
+SECTION
+#Xle    Yle    Zle     Chord   Ainc  Nspanwise  Sspace
+ .2286 .762    0     .1524  0.0  
+AFILE
+HS502.dat
+
+
+#--------------------------------------------------
+SURFACE
+Verticle
+#Nchordwise  Cspace   Nspanwise  Sspace
+7            1.0      11          1.0
+
+YDUPLICATE
+0.0
+
+COMPONENT
+1
+
+SCALE
+1.0   1.0  1.0
+
+TRANSLATE
+0.0  .762   0
+
+SECTION
+#Xle    Yle    Zle     Chord   Ainc  Nspanwise  Sspace
+ .2286    .762    0.0     .1524    0.    
+CONTROL
+rudder  1.0  0.82   0. 0. 0.  1
+
+SECTION
+#Xle    Yle    Zle     Chord   Ainc  Nspanwise  Sspace
+.2286    .762     .127    .07366    0.  
+CONTROL
+rudder  1.0  0.70   0. 0. 0.  1
+

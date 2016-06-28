@@ -1,0 +1,51 @@
+mk2_1
+0.06
+1 0 0
+0.2861 .2166 1.3208
+0.0849 0 0
+0.02
+
+Surface
+Wing
+!Nchordwise  Cspace  Nspanwise  Sspace
+12           2.0     32        0
+
+COMPONENT 
+1
+
+YDUPLICATE 
+0.0
+
+ANGLE
+0.0
+
+SCALE
+1.0   1.0   1.0
+
+TRANSLATE
+0.0  0.0  0.0
+
+SECTION
+#Xle    Yle    Zle     Chord   Ainc  Nspanwise  Sspace
+0    0.0    0.0     .3048    3  
+
+SECTION
+#Xle    Yle    Zle     Chord   Ainc  Nspanwise  Sspace
+0    0.0508    0.0     .3048    3
+AFILE
+naca23112.dat
+
+SECTION
+#Xle    Yle    Zle     Chord   Ainc  Nspanwise  Sspace
+.1016 .3556   0    .2032  3  
+AFILE
+naca23112.dat
+Section
+.1778 .6577 0 .127 3
+AFILE
+naca23112.dat
+
+Section
+.2388 .6604 .127 .0660 0
+AFILE 
+NACA0010

@@ -1,0 +1,15 @@
+  
+       XFOIL         Version 6.96
+  
+ Calculated polar for: Dayton-Wright 6                                 
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.000     Re =     0.200 e 6     Ncrit =   9.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr
+  ------ -------- --------- --------- -------- -------- --------
+  -2.500   0.3589   0.01328   0.00512  -0.0888   0.6826   0.1969
+  -2.000   0.4036   0.01300   0.00486  -0.0864   0.6531   0.2515
+  -1.500   0.4406   0.01228   0.00471  -0.0827   0.6291   0.4386

@@ -1,0 +1,59 @@
+  
+       XFOIL         Version 6.96
+  
+ Calculated polar for: pane                                            
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.061     Re =     0.200 e 6     Ncrit =   9.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr
+  ------ -------- --------- --------- -------- -------- --------
+  -5.000 NaN      NaN       NaN       NaN        1.0000   0.0007
+  -4.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  -4.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  -3.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  -3.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  -2.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  -2.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  -1.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  -1.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  -0.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   0.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   0.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   1.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   1.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   2.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   2.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   3.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   3.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   4.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   4.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   5.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   5.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   6.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   6.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   7.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   7.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   8.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   8.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+   9.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+   9.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  10.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  10.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  11.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  11.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  12.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  12.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  13.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  13.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  14.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  14.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  15.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  15.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  16.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  16.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  17.000 NaN      NaN       NaN       NaN        1.9993   0.0007
+  17.500 NaN      NaN       NaN       NaN        1.9993   0.0007
+  18.000 NaN      NaN       NaN       NaN        1.9993   0.0007

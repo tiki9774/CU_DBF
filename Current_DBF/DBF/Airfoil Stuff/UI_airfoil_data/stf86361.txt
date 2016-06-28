@@ -1,0 +1,56 @@
+  
+       XFOIL         Version 6.96
+  
+ Calculated polar for: EPPLER STF 863-615 AIRFOIL                      
+  
+ 1 1 Reynolds number fixed          Mach number fixed         
+  
+ xtrf =   1.000 (top)        1.000 (bottom)  
+ Mach =   0.061     Re =     0.200 e 6     Ncrit =   9.000
+  
+   alpha    CL        CD       CDp       CM     Top_Xtr  Bot_Xtr
+  ------ -------- --------- --------- -------- -------- --------
+  -3.500 NaN      NaN       NaN       NaN        0.9142   0.0439
+  -3.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  -2.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  -2.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  -1.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  -1.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  -0.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   0.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   0.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   1.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   1.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   2.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   2.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   3.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   3.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   4.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   4.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   5.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   5.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   6.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   6.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   7.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   7.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   8.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   8.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+   9.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+   9.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  10.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  10.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  11.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  11.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  12.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  12.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  13.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  13.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  14.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  14.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  15.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  15.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  16.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  16.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  17.000 NaN      NaN       NaN       NaN        1.0019   0.9981
+  17.500 NaN      NaN       NaN       NaN        1.0019   0.9981
+  18.000 NaN      NaN       NaN       NaN        1.0019   0.9981

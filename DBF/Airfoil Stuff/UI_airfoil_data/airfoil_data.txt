@@ -1,0 +1,1 @@
+airfoil    clmax    cd0   cdc   clc   cm   m0   alpha0   alphaM

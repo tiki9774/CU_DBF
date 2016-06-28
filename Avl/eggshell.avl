@@ -1,0 +1,101 @@
+wingtwistmk3
+0.0                          
+0.000     0.000     0.000
+
+ 472.000      8.565     60.000  
+# Note : check consistency of area unit above with length units of the file
+   3.115    -0.000     0.003         
+         
+
+
+
+#=================================================
+SURFACE                     
+eggshell_Wing
+#Nchord    Cspace   [ Nspan Sspace ]
+20        1.0
+
+INDEX                       
+113                          
+
+YDUPLICATE
+0.0
+
+SCALE
+1.0  1.0  1.0
+
+TRANSLATE
+0.0  0.0  0.0
+
+ANGLE
+   1.000                       
+
+
+#______________
+SECTION                                                  
+  -2.4970    2.0000    0.0872   10.0000   2.000   20    1   
+
+AFIL 0.0 1.0
+HS 602.dat
+
+#______________
+SECTION                                                     
+   2.9992   22.0000   -0.0960    8.0000   0.000   20    1   
+
+AFIL 0.0 1.0
+HS 520.dat
+
+#______________
+SECTION                                            
+   6.5041   30.0000   -0.3140    6.0000  -6.000   20    1   
+
+AFIL 0.0 1.0
+HS 520.dat
+
+
+
+#=================================================
+SURFACE                  
+eggshell_Fin
+#Nchord    Cspace 
+7        1.0
+
+INDEX                  
+116                      
+
+YDUPLICATE
+   0.0000
+
+SCALE
+1.0  1.0  1.0
+
+TRANSLATE
+0.0  0.0  0.0
+
+ANGLE
+   0.000                
+
+
+#______________
+SECTION                                                 
+  10.1000  -30.0000    5.0000    2.9000   0.000    7    0  
+
+AFIL 0.0 1.0
+NACA 0010.dat
+
+#______________
+SECTION                                                
+   7.0000   30.0000    0.0000    6.0000   0.000    7    0  
+
+AFIL 0.0 1.0
+NACA 0010.dat
+
+#______________
+SECTION                                                     
+  10.1000   30.0000    5.0000    2.9000   0.000    7    0   
+
+AFIL 0.0 1.0
+NACA 0010.dat
+
+
+

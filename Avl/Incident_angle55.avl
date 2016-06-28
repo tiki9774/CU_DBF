@@ -1,0 +1,67 @@
+# AVL Datadest for Incident_angle55.txt 
+Incident_angle55.txt 
+#Mach   
+0.000  
+# IYsym IZsym Zsym  
+0 0 0.0000 
+#Sref Cref Bref 
+#@Auto-generate 
+5.0000  5.0000 2.0000 
+
+
+#xref yref zref 
+1.0000 0.0000 0.0000   
+CDp  
+0.0000  
+
+
+#*********************************
+#Surfaces 
+#*********************************
+#Yduplicate 4 0.0000 wing 
+SURFACE 
+Wing 
+# Ncordwise Cspace Nspanwise Sspace 
+12 2.0000 32 0.0000 
+COMPONENT 
+1 
+YDUPLICATE 
+0.0 
+ANGLE 
+0.0 
+SCALE  
+#sX sY sZ 
+1.0000 1.0000 1.0000 
+TRANSLATE 
+#dx dy dz 
+0.0000 0.0000 0.0000SECTION#Xle Yle Zle Chord Angle 
+0.0000 0.0000 0.0000 0.2540 0.0000 
+SECTION 
+# Xle Yle Zle Chord Angle 
+0.0000 0.0508 0.0000 0.250 4.0000AFILE 
+HS602.dat 
+CLAF 
+#CLaf = CLalpha / 2 / pi 
+1.0000 
+CONTROL 
+#label gain Zhinge Xhvec Yhvec Zhvec SgnDup 
+elevator 1.0000 0.7000 0.0000 0.0000 0.0000 1 
+
+SECTION 
+#Xle Yle Zle Chord Angle 
+0.1143 0.4064 0.0000 0.1905 4.0000 
+AFILE 
+HS520.dat 
+CLAF 
+1.0000 
+CONTROL 
+elevator 1.0000 0.7000 0.0000 0.0000 0.0000 1 
+SECTION 
+#Xle Yle Zle Chord Angle 
+0.1778 0.7620 0.0000 0.1778 -5.0000 
+AFILE 
+HS520.dat 
+CLAF 
+1.0000 
+CONTROL 
+elevator 1.0000 0.80000 0.0000 0.0000 0.0000 1 
